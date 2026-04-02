@@ -49,16 +49,17 @@ bike purchases between genders?.
 Based on the dashboard and charts:
 
 1. **Customer Segments:**  
-   - Certain age-income-occupation groups are more likely to purchase bikes.  
+   - Certain age-income-occupation groups are more likely to purchase bikes.
+   in our analysis: is the 50+ aged with high income and professioanl occupation.
    - This helps target marketing campaigns for high-probability buyers.
 
 2. **Income vs Age Groups:**  
    - Higher income customers in specific age ranges show a stronger tendency to buy bikes.  
+   in our analysis:Medium income customer in the age range (40-49) shows a stronger tendencey to buy bikes.
    - Consider promotions or financing options for these groups.
 
-3. **Commute Distance vs Car Ownership:**  
-   - Customers with fewer cars or shorter commute distances tend to show different bike purchase patterns.  
-   - Could inform product placement or regional sales strategies.
+3. **how everage of income ifluance bike purchasing betwwen genders**  
+   
 
 **Recommendation:**  
 - Use the dashboard to **identify target segments** for bike promotions.  
