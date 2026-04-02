@@ -22,16 +22,18 @@ This screenshot shows the full dashboard with all charts and slicers:
 ## Charts for Key Questions
 
 ### Question 1 Chart
+Q1:Which customer segments (Age + Income + Occupation) have the highest bike purchase rate?
 Visualizes **customer segments** (Age, Income, Occupation) and their bike purchase behavior.
 
-![Chart 1](Images/Chart1.png)
+![Chart 1](https://github.com/Rehaf-bushara/Bike_Purchase_Analysis-Excel/blob/main/segment.png)
 
 ---
 
 ### Question 2 Chart
+q2:How does income influence bike purchases across different age groups?
 Shows **income levels across different age groups** and how they relate to bike purchases.
 
-![Chart 2](Images/Chart2.png)
+![Chart 2](https://github.com/Rehaf-bushara/Bike_Purchase_Analysis-Excel/blob/main/AVG%20incomr.png)
 
 ---
 
