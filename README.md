@@ -15,7 +15,7 @@ The main goal of this project is to explore patterns in bike purchases and visua
 
 This screenshot shows the full dashboard with all charts and slicers:
 
-![Dashboard](images/dashboard 1.png)
+![Dashboard](https://github.com/Rehaf-bushara/Bike_Purchase_Analysis-Excel/blob/main/dashboard%201.png)
 
 ---
 
