@@ -33,7 +33,7 @@ Visualizes **customer segments** (Age, Income, Occupation) and their bike purcha
 q2:How does income influence bike purchases across different age groups?
 Shows **income levels across different age groups** and how they relate to bike purchases.
 
-![Chart 2](https://github.com/Rehaf-bushara/Bike_Purchase_Analysis-Excel/blob/main/AVG%20incomr.png)
+![Chart 2]([https://github.com/Rehaf-bushara/Bike_Purchase_Analysis-Excel/blob/main/AVG%20incomr.png](https://github.com/Rehaf-bushara/Bike_Purchase_Analysis-Excel/blob/main/count%20of%20purchased%20bike.png))
 
 ---
 
