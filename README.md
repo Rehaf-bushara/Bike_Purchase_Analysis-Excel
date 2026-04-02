@@ -15,7 +15,7 @@ The main goal of this project is to explore patterns in bike purchases and visua
 
 This screenshot shows the full dashboard with all charts and slicers:
 
-![Dashboard](Images/Dashboard.png)
+![Dashboard](Images/dashboard 1.png)
 
 ---
 
