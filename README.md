@@ -38,9 +38,9 @@ Shows **income levels across different age groups** and how they relate to bike 
 ---
 
 ### Question 3 Chart
-Displays **commute distance vs. car ownership** and their effect on bike purchase probability.
+bike purchases between genders?.
 
-![Chart 3](Images/Chart3.png)
+![Chart 3](https://github.com/Rehaf-bushara/Bike_Purchase_Analysis-Excel/blob/main/AVG%20incomr.png)
 
 ---
 
