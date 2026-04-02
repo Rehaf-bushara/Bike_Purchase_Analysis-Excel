@@ -42,6 +42,27 @@ Displays **commute distance vs. car ownership** and their effect on bike purchas
 
 ---
 
+## Insights & Recommendations
+
+Based on the dashboard and charts:
+
+1. **Customer Segments:**  
+   - Certain age-income-occupation groups are more likely to purchase bikes.  
+   - This helps target marketing campaigns for high-probability buyers.
+
+2. **Income vs Age Groups:**  
+   - Higher income customers in specific age ranges show a stronger tendency to buy bikes.  
+   - Consider promotions or financing options for these groups.
+
+3. **Commute Distance vs Car Ownership:**  
+   - Customers with fewer cars or shorter commute distances tend to show different bike purchase patterns.  
+   - Could inform product placement or regional sales strategies.
+
+**Recommendation:**  
+- Use the dashboard to **identify target segments** for bike promotions.  
+- Adjust marketing and sales strategies based on age, income, and commute patterns.  
+- Update the dashboard regularly as new data comes in to **track trends over time**.
+
 ## Tools Used
 
 - **Microsoft Excel**: PivotTables, charts, and slicers  
